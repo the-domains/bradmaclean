@@ -1,7 +1,7 @@
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: bradmaclean
+favicon: null
+layout_spectrum: 0.8
+typography_spectrum: 0.5
 collections:
   - index:
       path: /
@@ -14,29 +14,31 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.8
+title: Bradley MacLean
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.7680851
-  rhythmicContrast: 0.5
   brandColors:
     - '#FFFEFF'
     - '#282F31'
     - '#5C6F91'
     - '#BDE0FF'
     - '#87A3BD'
+  brandStrength: 0.7680851
   lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: awareness
     url: null
     item: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: bradmaclean
